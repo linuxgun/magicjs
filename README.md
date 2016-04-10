@@ -1,0 +1,2 @@
+# magicjs
+magic javascript
